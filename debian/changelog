@@ -1,0 +1,15 @@
+ros-kinetic-op3-walking-module-msgs (0.1.1-0xenial) xenial; urgency=high
+
+  * changed package.xml format to v2
+  * Contributors: Pyo
+
+ -- Pyo <pyo@robotis.com>  Tue, 20 Mar 2018 15:00:00 -0000
+
+ros-kinetic-op3-walking-module-msgs (0.1.0-0xenial) xenial; urgency=high
+
+  * added msg package for ROBOTIS OP3
+  * Contributors: Kayman, Yoshimaru Tanaka
+
+ -- Pyo <pyo@robotis.com>  Thu, 26 Oct 2017 15:00:00 -0000
+
+
