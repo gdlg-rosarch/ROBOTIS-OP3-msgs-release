@@ -1,8 +1,0 @@
-ros-kinetic-op3-walking-module-msgs (0.1.0-0jessie) jessie; urgency=high
-
-  * added msg package for ROBOTIS OP3
-  * Contributors: Kayman, Yoshimaru Tanaka
-
- -- Pyo <pyo@robotis.com>  Thu, 26 Oct 2017 15:00:00 -0000
-
-
